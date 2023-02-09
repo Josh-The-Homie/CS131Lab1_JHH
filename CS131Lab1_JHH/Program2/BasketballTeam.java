@@ -63,4 +63,4 @@ public double[] getStats() {
 	Stats[2]=freeThrows/freeThrowsAttempted;
 	return Stats;
 }//end getStats
-}
+}//end class
